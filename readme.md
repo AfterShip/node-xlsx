@@ -8,9 +8,15 @@ An opensource alternative is currently being developped by [Niggler](https://git
 Quick start
 -----------
 
+```
+
+npm install @aftership/node-xlsx
+
+```
+
 Parsing a xlsx from file/buffer
 ``` javascript
-var xlsx = require('node-xlsx');
+var xlsx = require('@aftership/node-xlsx');
 
 var obj = xlsx.parse(__dirname + '/myFile.xlsx'); // parses a file
 

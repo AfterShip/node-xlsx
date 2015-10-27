@@ -1,5 +1,5 @@
 {
-  "name": "node-xlsx",
+  "name": "@aftership/node-xlsx",
   "author": "AfterShip",
   "license": "Microsoft Office Extensible File License",
   "version": "0.2.2",
